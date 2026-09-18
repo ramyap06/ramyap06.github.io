@@ -5,6 +5,7 @@ export default function Navbar() {
       <ul className="nav-links">
         <li><a href="#about">About</a></li>
         <li><a href="#journey">My Journey</a></li>
+        <li><a href="#skills">Skills</a></li>
       </ul>
     </nav>
   )
